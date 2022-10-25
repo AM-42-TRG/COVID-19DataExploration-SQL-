@@ -3,6 +3,9 @@ Portfolio Project inspired by Alex Freberg:
 SQL Data Exploration
 */
 
+-- Below are the links to the two data files used for this project:
+-- https://github.com/AlexTheAnalyst/PortfolioProjects/blob/main/CovidDeaths.xlsx
+-- https://github.com/AlexTheAnalyst/PortfolioProjects/blob/main/CovidVaccinations.xlsx
 
 -- Looking at Total Cases vs Total Deaths
 -- Shows the likelihood of dying if you contract COVID in your country

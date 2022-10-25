@@ -1,5 +1,5 @@
 /*
-Portfolio Project by Alex Freberg:
+Portfolio Project inspired by Alex Freberg:
 SQL Data Exploration
 */
 
